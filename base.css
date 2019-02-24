@@ -1,10 +1,10 @@
 :root {
     /* Discord preset colours */
-    --green: #859900;
-    --greenDark: #586e75;
-    --yellow: #b58900;
-    --red: #dc322f;
-    --purple: #6c71c4;
+    --green: #43b581;
+    --greenDark: #3ca374;
+    --yellow: #faa61a;
+    --red: #f04747;
+    --purple: #593695;
 
     /* Random variables */
     --winBtns: 0 135px 0 12px; /* Add space for windows buttons */
